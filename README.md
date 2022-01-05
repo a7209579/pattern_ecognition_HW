@@ -7,6 +7,6 @@
 
 ### using MLP&CNN
 * Tensorflow_datasets: 
-  1. cats_vs_dogs
-  2. horses_or_humans
-  3. eurosat
+ 1. cats_vs_dogs
+ 2. horses_or_humans
+ 3. eurosat
