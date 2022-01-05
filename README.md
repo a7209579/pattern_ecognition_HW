@@ -6,8 +6,7 @@
 * sklearn.datasets: Digits
 
 ## MLP&CNN
-### Datasets
-* Tensorflow_datasets: 
- 1. cats_vs_dogs
- 2. horses_or_humans
- 3. eurosat
+### Tensorflow_Datasets 
+* cats_vs_dogs
+* horses_or_humans
+* eurosat
