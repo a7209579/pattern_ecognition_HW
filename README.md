@@ -1,7 +1,7 @@
 # pattern_ecognition_HW
 ## Datasets
 ### using MLP
-* Yale Face databaset
+* [Yale Face database] (http://vision.ucsd.edu/content/yale-face-database)
 * keras.datasets: CIFAR10
 * sklearn.datasets: Digits
 
